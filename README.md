@@ -1,5 +1,5 @@
-<!-- Optional: Add a banner image -->
-<!-- ![Adham's GitHub Banner](./assets/banner.png) -->
+
+![Adham's GitHub Banner](https://i.imgur.com/3ZQ3Z5T.png)
 
 # 👋 Hi there, I'm Adham Elshourbagy
 
