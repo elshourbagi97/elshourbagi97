@@ -1,4 +1,4 @@
-
+<!-- 🌟 Optional custom banner — replace with your own -->
 ![Adham's GitHub Banner](https://i.imgur.com/3ZQ3Z5T.png)
 
 # 👋 Hi there, I'm Adham Elshourbagy
