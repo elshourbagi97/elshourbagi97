@@ -1,5 +1,6 @@
 
-![Adham's GitHub Banner](https://i.imgur.com/3ZQ3Z5T.png)
+![Adham's GitHub Banner](./banner.png)
+
 
 # 👋 Hi there, I'm Adham Elshourbagy
 
